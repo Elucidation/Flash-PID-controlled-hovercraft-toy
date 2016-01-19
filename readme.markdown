@@ -3,7 +3,7 @@ Flash PID Controlled Hovercraft Toy
 
 This is a 2D simulator for a simple PID-controlled hovercraft.
 
-[Try it out](http://www.prism.gatech.edu/~gth716h/HoverPID/)
+[Try it out](http://elucidation.github.io/Flash-PID-controlled-hovercraft-toy)
 
 
 Tools
